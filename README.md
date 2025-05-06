@@ -22,7 +22,7 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> **TypeScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20"/> **Jest**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Spotify_logo_with_text.svg" width="20"/> **Backstage**
+- <img src="https://images.icon-icons.com/3911/PNG/512/backstage_logo_icon_247506.png" width="20"/> **Backstage**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**
 
 <br>
