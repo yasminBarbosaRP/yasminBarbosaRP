@@ -6,10 +6,10 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 ## 📝 O que eu tenho feito:
 
-- 🔧 Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot).
-- 🧪 Criação de **testes automatizados com Jest**, cobrindo tanto componentes React quanto lógicas críticas de backend.
-- 🛠️ Estruturação de rotas e lógica de API para plugins internos, cuidando desde a modelagem até a manipulação de erros.
-- 📊 Construção de dashboards e componentes visuais reutilizáveis para métricas e uso de ferramentas.
+- Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot).
+- Criação de **testes automatizados com Jest**, cobrindo tanto componentes React quanto lógicas críticas de backend.
+- Estruturação de rotas e lógica de API para plugins internos, cuidando desde a modelagem até a manipulação de erros.
+- Construção de dashboards e componentes visuais reutilizáveis para métricas e uso de ferramentas.
 
 ---
 
@@ -24,6 +24,8 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20"/> **Jest**
 - <img src="https://avatars.githubusercontent.com/u/69843787?s=200&v=4" width="20"/> **Backstage**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=rose_pine&hide_border=true)
 
 ---
 
