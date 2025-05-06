@@ -29,8 +29,8 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 ## 📫 Como me encontrar
 
-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a href="https://github.com/yasminBarbosaRP" target="_blank">yasminBarbosaRP</a>
-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="https://www.linkedin.com/in/yasmin-barbosa-rodrigues-pinheiro-27a341301/" target="_blank">Yasmin Barbosa Rodrigues Pinheiro</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> <a href="https://github.com/yasminBarbosaRP">yasminBarbosaRP</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> <a href="https://www.linkedin.com/in/yasmin-barbosa-rodrigues-pinheiro-27a341301/">Yasmin Barbosa Rodrigues Pinheiro</a>
 
 ---
 
