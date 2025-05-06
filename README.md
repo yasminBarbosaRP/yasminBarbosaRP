@@ -1,10 +1,7 @@
-# 👋 Olá, eu me chamo Yasmin!
-
+<h2 align="center">👋 Olá, eu me chamo Yasmin!</h2>
 Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest**, e **Backstage**, criando plugins e integrações que melhoram a produtividade de plataformas internas.
 
-
 ---
-
 
 ## 🚀 O que eu tenho feito:
 - 🔧 Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot).
@@ -12,9 +9,7 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest**, e **Bac
 - 🛠️ Estruturação de rotas e lógica de API para plugins internos, cuidando desde a modelagem até a manipulação de erros.
 - 📊 Construção de dashboards e componentes visuais reutilizáveis para métricas e uso de ferramentas.
 
-
 ---
-
 
 ## 🧩 Principais Tecnologias
 - **Java** (estruturas backend)
@@ -26,16 +21,12 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest**, e **Bac
 - **Backstage** (plugins, backend & frontend)
 - **Node.js**
 
-
 ---
-
 
 ## 📫 Como me encontrar
 - GitHub: https://github.com/yasminBarbosaRP
 - Linkedin: https://www.linkedin.com/in/yasmin-barbosa-rodrigues-pinheiro-27a341301/
 
-
 ---
-
 
 > 💬 *“Todos nós temos essa chama dentro de nós, e cabe a nós não deixar que se apague.” - Por Lugares Incríveis, Jennifer Niven*
