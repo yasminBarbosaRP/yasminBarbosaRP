@@ -25,7 +25,11 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 - <img src="https://avatars.githubusercontent.com/u/69843787?s=200&v=4" width="20"/> **Backstage**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=rose_pine&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=rose_pine&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
 
 ---
 
