@@ -43,4 +43,4 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 <br>
 
-<p align="center"><em>💬 “Todos nós temos essa chama dentro de nós, e cabe a nós não deixar que se apague.”</em><br>— <strong>Por Lugares Incríveis</strong>, Jennifer Niven</p>
+<p align="center">💬 <em>“Todos nós temos essa chama dentro de nós, e cabe a nós não deixar que se apague.”</em><br>— <strong>Por Lugares Incríveis</strong>, Jennifer Niven</p>
