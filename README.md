@@ -31,7 +31,7 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=radical&hide_border=true" width="45%" height="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&theme=default&hide_border=true" width="45%" height="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&theme=radical&hide_border=true" width="45%" height="30%" />
 </p>
 
 ---
