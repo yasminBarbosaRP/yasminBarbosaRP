@@ -1,10 +1,10 @@
-<h1 align="center">👋 Oiie, eu me chamo Yasmin!</h1>
+<h1 align="center">😁👋 Oiie, eu me chamo Yasmin!</h1>
 
 Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Backstage**, criando plugins e integrações que melhoram a produtividade de plataformas internas.
 
 ---
 
-## 🚀 O que eu tenho feito:
+## 📝 O que eu tenho feito:
 
 - 🔧 Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot).
 - 🧪 Criação de **testes automatizados com Jest**, cobrindo tanto componentes React quanto lógicas críticas de backend.
@@ -13,7 +13,7 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 ---
 
-## 🧩 Principais Tecnologias
+## 💻 Principais Tecnologias
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**
@@ -27,7 +27,7 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 ---
 
-## 📫 Como me encontrar
+## 💌 Como me encontrar
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> <a href="https://github.com/yasminBarbosaRP">yasminBarbosaRP</a>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> <a href="https://www.linkedin.com/in/yasmin-barbosa-rodrigues-pinheiro-27a341301/">Yasmin Barbosa Rodrigues Pinheiro</a>
