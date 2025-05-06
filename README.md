@@ -26,9 +26,8 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=rose_pine&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
