@@ -1,4 +1,4 @@
-<h1 align="center">😁👋 Oiie, eu me chamo Yasmin!</h1>
+<h1 align="center">👋😁 Oiie, eu me chamo Yasmin!</h1>
 
 Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Backstage**, criando plugins e integrações que melhoram a produtividade de plataformas internas.
 
@@ -6,9 +6,9 @@ Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest** e **Back
 
 ## 📝 O que eu tenho feito:
 
-- Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot).
-- Criação de **testes automatizados com Jest**, cobrindo tanto componentes React quanto lógicas críticas de backend.
-- Estruturação de rotas e lógica de API para plugins internos, cuidando desde a modelagem até a manipulação de erros.
+- Desenvolvimento de **plugins personalizados para Backstage**, com foco em integração de dados e visualização eficiente (ex: GitHub Copilot);
+- Criação de **testes automatizados com Jest**, cobrindo tanto componentes React quanto lógicas de backend;
+- Estruturação de rotas e lógica de API para plugins internos;
 - Construção de dashboards e componentes visuais reutilizáveis para métricas e uso de ferramentas.
 
 <br>
