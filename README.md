@@ -1,4 +1,5 @@
-<h2 align="center">👋 Olá, eu me chamo Yasmin!</h2>
+<h1 align="center">👋 Olá, eu me chamo Yasmin!</h1>
+
 Trabalho atualmente em projetos com **React**, **TypeScript**, **Jest**, e **Backstage**, criando plugins e integrações que melhoram a produtividade de plataformas internas.
 
 ---
