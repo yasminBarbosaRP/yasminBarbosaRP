@@ -27,15 +27,6 @@ Trabalho atualmente em projetos com **React**, **TypeScript** e **Backstage**, c
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminBarbosaRP&show_icons=true&theme=radical&hide_border=true" width="45%" height="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminBarbosaRP&theme=radical&hide_border=true" width="45%" height="30%" />
-</p>
-
-<br>
-
 ## 💌 Como me encontrar
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> <a href="https://github.com/yasminBarbosaRP">yasminBarbosaRP</a>
